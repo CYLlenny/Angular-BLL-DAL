@@ -1,3 +1,10 @@
+前後端分離練習、分層練習
+
+Angular  WebApi  Android練習分層 
+BLL商業邏輯層 DAL資料存取層
+並使用注入 降低耦合性 
+
+
 # Angular0713
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
